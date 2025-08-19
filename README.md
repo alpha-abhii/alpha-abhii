@@ -5,13 +5,13 @@
 - **Competitive Programming** 🏆 (C++)  
 - **Machine Learning & Deep Learning** 🤖  
 
-## 🌱 Currently Learning  
-- **Advanced Machine Learning** (Transformers, BNNs, RL)  
+## 🌱 Currently Learning
 - **Competitive Programming** (C++ for problem-solving)  
+- **Advanced Machine Learning** (Transformers, BNNs, RL)  
 
 ## 💼 Looking to Collaborate  
 - **Backend Engineering Roles** (Express.js, TypeScript, MERN)  
-- **AI/ML Projects** (LLMs, Computer Vision, NLP)  
+- **AI/ML Projects** (LLMs, NLP)  
 
 ## 📫 How to Reach Me  
 - **GitHub:** [@alpha-abhii](https://github.com/alpha-abhii)  
